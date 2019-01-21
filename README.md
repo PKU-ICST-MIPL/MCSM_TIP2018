@@ -18,7 +18,7 @@ The code is tested on Ubuntu 14.04.5 LTS, Lua 5.1.
 
 # Usage
 Data Preparation: we use wiki dataset as example, and the data should be put in `./i2t_attention/data/` and `./t2i_attention/data/`.
-The data files can be download from the [link](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=1010) and unzipped to the above path.
+The data files can be download from the [link](http://59.108.48.34/mipl/tiki-download_file.php?fileId=1010) and unzipped to the above path.
 
 run `sh run.sh` to train models and extract features, then run the following commands to calculate mAP:
 ```
@@ -29,6 +29,6 @@ matlab -r "evalMAPMerge"
 # Our Related Work
 If you are interested in cross-media retrieval, you can check our recently published overview paper on IEEE TCSVT:
 
-Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.[[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=376)
+Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: Concepts, Methodologies, Benchmarks and Challenges", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017.[[PDF]](http://59.108.48.34/mipl/tiki-download_file.php?fileId=376)
 
-Welcome to our [Benchmark Website](http://www.icst.pku.edu.cn/mipl/xmedia) and [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
+Welcome to our [Benchmark Website](http://59.108.48.34/mipl/xmedia) and [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
